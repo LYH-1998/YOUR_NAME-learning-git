@@ -1,0 +1,2 @@
+mkdir git diff git status ls cd ../th 
+pwd git init
